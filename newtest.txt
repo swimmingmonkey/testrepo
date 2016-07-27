@@ -1,1 +1,3 @@
-Initially untracked file
+Initially untracked file here
+
+This is part of the second commit on the new file
