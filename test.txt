@@ -1,5 +1,13 @@
+
 1 I've modified this file.
 2 
 3 New modif, after staging after staging again
 4
 5 This is part of the second commit
+=======
+I've modified this file.
+
+New modif, after staging after staging again
+
+This is part of the second commit. Changed on branch 1 and branch 2
+
