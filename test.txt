@@ -2,4 +2,4 @@ I've modified this file.
 
 New modif, after staging after staging again
 
-This is part of the second commit
+This is part of the second commit changed on branch2
